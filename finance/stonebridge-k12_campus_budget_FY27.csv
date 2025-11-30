@@ -1,0 +1,29 @@
+campus,budget_line,revenue,expense,fy27_projection,variance_pct
+North Campus,Teacher salaries,0,70000,70000,4.4
+North Campus,Benefits,0,1351000,1351000,-6.2
+North Campus,Curriculum licenses,0,1412000,1412000,7.4
+North Campus,Transportation,0,2366500,2366500,1.7
+North Campus,Facilities,0,1969000,1969000,5.1
+North Campus,Technology,0,578500,578500,-2.2
+North Campus,Food service,832500,832500,832500,-2.3
+South Campus,Teacher salaries,0,150500,150500,4.7
+South Campus,Benefits,0,926500,926500,1.8
+South Campus,Curriculum licenses,0,699000,699000,2.2
+South Campus,Transportation,0,1536500,1536500,0.3
+South Campus,Facilities,0,2293500,2293500,6.1
+South Campus,Technology,0,469000,469000,6.8
+South Campus,Food service,217500,217500,217500,7.7
+Middle School,Teacher salaries,0,2176500,2176500,7.8
+Middle School,Benefits,0,2192500,2192500,-2.5
+Middle School,Curriculum licenses,0,599000,599000,-1.4
+Middle School,Transportation,0,898500,898500,6.7
+Middle School,Facilities,0,252500,252500,6.3
+Middle School,Technology,0,1084500,1084500,-7.5
+Middle School,Food service,431500,431500,431500,-4.3
+High School,Teacher salaries,0,604000,604000,0.6
+High School,Benefits,0,657500,657500,7.8
+High School,Curriculum licenses,0,1170500,1170500,4.4
+High School,Transportation,0,324500,324500,2.9
+High School,Facilities,0,2183500,2183500,-0.4
+High School,Technology,0,1190000,1190000,6.2
+High School,Food service,273000,273000,273000,1.1
